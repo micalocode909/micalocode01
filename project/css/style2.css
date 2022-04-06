@@ -1,0 +1,23 @@
+.bga{
+    background-image: url(../assets/bg\ 11.png);
+    background-size: cover;
+}
+.mnm{
+    background-image: url(../assets/bg\ 12.png);
+    background-size: cover;
+}
+.bng{
+    background-image: url(../assets/bg\ 13.png);
+    background-size: cover;
+padding: 100;
+}
+.bvb{
+    background-image: url(../assets/wwus.jpg);
+    background-size: cover;
+    
+}
+.bb{
+    border-radius: 20%;
+    width: 100px;
+    
+}
